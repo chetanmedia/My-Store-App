@@ -27,11 +27,11 @@ localhost:4200
 
 ## Demo Screenshots
 
-![App Screenshot](https://github.com/chetanmedia/My-Store-Application/blob/master/Screenshots/Homepage.png)
+![App Screenshot](https://github.com/chetanmedia/My-Store-App/blob/master/Screenshots/Homepage.png)
 
-![App Screenshot](https://github.com/chetanmedia/My-Store-Application/blob/master/Screenshots/Cart.png)
+![App Screenshot](https://github.com/chetanmedia/My-Store-App/blob/master/Screenshots/Cart.png)
 
-![App Screenshot](https://github.com/chetanmedia/My-Store-Application/blob/master/Screenshots/Successpage.png)
+![App Screenshot](https://github.com/chetanmedia/My-Store-App/blob/master/Screenshots/Successpage.png)
 
 To showcase your new skills, you'll build an e-commerce website – an application that allows users to view a list of available products to purchase, add them to a shopping cart, and ultimately complete the checkout process.
 
